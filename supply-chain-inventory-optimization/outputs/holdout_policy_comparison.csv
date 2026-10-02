@@ -1,0 +1,3 @@
+policy,fill_rate,stockout_week_rate,mean_on_hand_units,units_short
+"Current fixed SS, modeled",0.9942760564263978,0.01452991452991453,747.5147435897436,4379
+"Recommended, modeled",0.9786335734975792,0.06495726495726496,548.5217948717949,16346
